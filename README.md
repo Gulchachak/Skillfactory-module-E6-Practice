@@ -1,6 +1,6 @@
 # flask_in_docker (Fibonacci)
 
-sudo git clone git@github.com:tomasmor42/flask_in_docker.git
+sudo git clone git@github.com:Gulchachak/Skillfactory-module-E6-Practice.git
 
 cd flask_in_docker
 
